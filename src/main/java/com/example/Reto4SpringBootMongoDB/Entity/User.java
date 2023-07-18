@@ -15,7 +15,7 @@ public class User {
     private Integer id;
     private String identification;
     private String name;
-    private String birthDay;
+    private Date birthDay;
     private String monthBirthDay;
     private String address;
     private String cellPhone;
